@@ -32,6 +32,7 @@ It is a Dashboard.
 
 System login
 Email : admin@email.com
+
 Password :password
 
 ## Learning Laravel
@@ -42,15 +43,16 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 
 ## Packages and Libraries
-[Laravel v8](https://laravel.com/docs/8.x/installation)
-[Bootstrap v5](https://getbootstrap.com/)
-[Spatie v5](https://spatie.be/docs/laravel-permission/v5/introduction)
-[jQuery v3.6.1](https://jquery.com/)
+-[Laravel v8](https://laravel.com/docs/8.x/installation)
+-[Bootstrap v5](https://getbootstrap.com/)
+-[Spatie v5](https://spatie.be/docs/laravel-permission/v5/introduction)
+-[jQuery v3.6.1](https://jquery.com/)
 
 
 ##  How to Use this Project
  1- Download the project from git using git clone https://github.com/ameeraemad/doccure.git 
  - click to the button CODE and download ZIP
+ 
  2- Download the libraries in the fendor file
  
 ## Setup
