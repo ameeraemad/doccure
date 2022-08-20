@@ -25,7 +25,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 It is an administrative medical system that is accessed via email and password. Once entered, the main page appears,
 and next to it the index that was used to organize patients' appointments, register doctors, their addresses and specialties, display them in it, and know the financial bills. Where deletion, modification and display are done through the database tables stored in it.
-It is a Dashboard
+It is a Dashboard.
+
+-System login
+Email : admin@email.com
+Password :password
 
 ## Learning Laravel
 
@@ -67,4 +71,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
+## Screen
+![Capture](https://user-images.githubusercontent.com/61087691/185756194-ed52ff56-7244-4e8e-b5a3-ddf91310f100.PNG)
