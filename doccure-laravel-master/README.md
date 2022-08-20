@@ -42,12 +42,11 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 
 ## Packages and Libraries
-Laravel v8
-Bootstrap v5
-Spatie v5
-jQuery v3.6.1
-Laravel Jetstream v2
-Laravel Livewire v2
+[Laravel v8](https://laravel.com/docs/8.x/installation)
+[Bootstrap v5](https://getbootstrap.com/)
+[Spatie v5](https://spatie.be/docs/laravel-permission/v5/introduction)
+[jQuery v3.6.1](https://jquery.com/)
+
 
 ##  How to Use this Project
  1- Download the project from git using git clone https://github.com/ameeraemad/doccure.git 
