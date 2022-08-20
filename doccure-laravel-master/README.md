@@ -21,13 +21,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## About System 
+## Doccure Project
+It is a medical website for managing patients and doctors.
+
+## Project Description 
 
 It is an administrative medical system that is accessed via email and password. Once entered, the main page appears,
 and next to it the index that was used to organize patients' appointments, register doctors, their addresses and specialties, display them in it, and know the financial bills. Where deletion, modification and display are done through the database tables stored in it.
 It is a Dashboard.
 
--System login
+System login
 Email : admin@email.com
 Password :password
 
@@ -37,43 +40,44 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Packages and Libraries
+Laravel v8
+Bootstrap v5
+Spatie v5
+jQuery v3.6.1
+Laravel Jetstream v2
+Laravel Livewire v2
 
-### Premium Partners
+##  How to Use this Project
+ 1- Download the project from git using git clone https://github.com/ameeraemad/doccure.git 
+ - click to the button CODE and download ZIP
+ 2- Download the libraries in the fendor file
+ 
+## Setup
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/)**
-- **[OP.GG](https://op.gg)**
+Database 
+.env file
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=doccure
+DB_USERNAME=root
+DB_PASSWORD=
 
-## Contributing
+## Remember
+Create the database before run artisan command.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+php artisan migrate
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Screen
+## Dashboard Screen
 ![Capture](https://user-images.githubusercontent.com/61087691/185756194-ed52ff56-7244-4e8e-b5a3-ddf91310f100.PNG)
 ![Capture1](https://user-images.githubusercontent.com/61087691/185756312-9c9e8595-91d0-43bb-83a6-56e98ea6715f.PNG)
 ![Capture2](https://user-images.githubusercontent.com/61087691/185756315-8f4af015-a8b0-45f9-9559-087a86eec7e9.PNG)
 ![Capture3](https://user-images.githubusercontent.com/61087691/185756317-7f27e85a-a8cd-4804-9e24-fc3dbdfe3209.PNG)
-![Capture4](https://user-images.githubusercontent.com/61087691/185756322-fa73bf24-3227-4e1a-a71c-77ae177dd55b.PNG)
+![Capture4](https://user-images.githubusercontent.com/61087691/185756322-fa73bf24-3227-4e1a-a71c-77ae177dd55b.PNG)![Capture5](https://user-images.githubusercontent.com/61087691/185757935-623d7aa5-9f75-4d7c-a293-c310c241395f.PNG)
+![Capture6](https://user-images.githubusercontent.com/61087691/185757936-96170890-ea17-40e4-8bfe-aff9cd290535.PNG)
+![Capture7](https://user-images.githubusercontent.com/61087691/185757937-e6ae516b-9f97-44cb-a0e4-051b0ca8c93c.PNG)
+![Capture9](https://user-images.githubusercontent.com/61087691/185757939-c4eeb1e5-4dea-46ab-9224-c78e77e0392b.PNG)
+
