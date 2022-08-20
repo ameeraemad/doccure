@@ -22,6 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Doccure Project
+
 It is a medical website for managing patients and doctors.
 
 ## Project Description 
@@ -44,8 +45,11 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Packages and Libraries
 -[Laravel v8](https://laravel.com/docs/8.x/installation)
+
 -[Bootstrap v5](https://getbootstrap.com/)
+
 -[Spatie v5](https://spatie.be/docs/laravel-permission/v5/introduction)
+
 -[jQuery v3.6.1](https://jquery.com/)
 
 
@@ -59,11 +63,17 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 Database 
 .env file
+
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=doccure
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 ## Remember
